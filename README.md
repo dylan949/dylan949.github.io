@@ -10,7 +10,7 @@
 #### h4 Heading
 ##### h5 Heading
 ###### h6 Heading
-####### h7 banananas
+
 
 Alternatively, for H1 and H2, an underline-ish style:
 
@@ -27,6 +27,7 @@ Alt-H2
 #### h4 Heading
 ##### h5 Heading
 ###### h6 Heading
+####### h7 potatos
 
 Alternatively, for H1 and H2, an underline-ish style:
 
